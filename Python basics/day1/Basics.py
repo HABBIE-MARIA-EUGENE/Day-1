@@ -1,3 +1,5 @@
+print("Hello World")
+
 a = int(input("Enter a num "))
 b = int(input("Enter another num "))
 print(a)
